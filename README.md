@@ -208,7 +208,7 @@ AC-Magnetic-Field-Strength-Indicator/
 
 | Index No. | Name | Key Contributions |
 | :---: | :--- | :--- |
-| `240367U` | **K. A. D. V. Kumarasingha** | Team Lead, PCB Design, Schematic Design, Component Selection |
+| `240367U` | **K. A. D. V. Kumarasinghe** | Team Lead, PCB Design, Schematic Design, Component Selection |
 | `240559K` | **W. D. D. S. V. Rathnasiri** | PCB Design, Schematic Design, Component Selection |
 | `240709X` | **M. P. Wickramarathna** | Enclosure Design, Schematic Design, Component Selection |
 | `240723J` | **N. A. C. M. Wijerathna** | Enclosure Design, Schematic Design, Component Selection |

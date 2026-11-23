@@ -1,0 +1,30 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# LTspice temporary simulation outputs
+*.raw
+*.op.raw
+*.fft
+*.log
+
+# KiCad / Altium temporary & backup files
+*-backups/
+*.bak
+*.lck
+~*
+History/
+__Previews/
+
+# OS generated files
+.DS_Store
+Thumbs.db
